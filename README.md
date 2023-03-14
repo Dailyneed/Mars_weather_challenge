@@ -7,10 +7,10 @@ You've learned to identify HTML elements on a page, identify their id and class 
 The purpose of this project is to use automated browsing with Splinter and HTML parsing with Beautiful Soup to scrape information from HTML table, and use Pandas to analysis the information.
 
 ## Technologies
-Splinter
-Beautiful Soup
-Pandas
-Python
+Splinter,
+Beautiful Soup,
+Pandas,
+Python,
 Selenium
 
 ## Instruction:
